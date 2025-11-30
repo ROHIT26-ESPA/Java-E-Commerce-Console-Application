@@ -1,2 +1,1 @@
-# Java-E-Commerce-Console-Application
-A console-based e-commerce application built using Core Java.  Includes user registration, login, product catalog, shopping cart, and checkout functionality.  Designed with clean object-oriented principles and modular class structure.
+A simple and interactive Java E-Commerce console application where users can log in, explore products, add/remove items from their cart, and complete checkout. Designed using Core Java, object-oriented programming, and the Collections Framework. Perfect for beginners learning how to build menu-driven applications.
